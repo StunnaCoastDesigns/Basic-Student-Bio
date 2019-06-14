@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+  .image1 {  
+    height: 200px;  
+    padding: 35px;
+    width: 200px;
+    box-sizing: 200px;
+  }
